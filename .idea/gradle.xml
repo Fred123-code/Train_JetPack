@@ -13,7 +13,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/customs_dragger2" />
+            <option value="$PROJECT_DIR$/customs_ioc_annnation" />
             <option value="$PROJECT_DIR$/dagger2" />
+            <option value="$PROJECT_DIR$/hilt" />
+            <option value="$PROJECT_DIR$/ioc_annation_lib" />
           </set>
         </option>
       </GradleProjectSettings>

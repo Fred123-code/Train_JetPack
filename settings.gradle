@@ -16,3 +16,6 @@ rootProject.name = "Train_JetPack"
 include ':app'
 include ':dagger2'
 include ':customs_dragger2'
+include ':hilt'
+include ':customs_ioc_annnation'
+include ':ioc_annation_lib'
