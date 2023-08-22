@@ -1,0 +1,10 @@
+1.CoordinatorLayout + AppBarLayout + CollapsingToolbarLayout
+2.MaterialIconView
+3.DownloadFile + LibraryInfo + TestAlbum
+4.player
+5.Utils.init(this)
+
+
+pass
+1.adb connect 127.0.0.1:62001
+2.
